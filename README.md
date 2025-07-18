@@ -71,8 +71,3 @@ npm test
 - No calendar sync yet.
 - No push notification support (mobile).
 - UI glitches on very small screen sizes.
-
-## 🤝 Contributing
-
-Contributions are welcome!  
-Please fork the repository and submit a pull request.
